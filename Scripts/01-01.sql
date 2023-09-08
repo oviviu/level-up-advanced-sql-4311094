@@ -1,4 +1,4 @@
--- Create a list of employees and their immediate managers.
+-- Create a list of employees and their immediate managers. TEST
 
 SELECT emp.firstName,
     emp.lastName,
